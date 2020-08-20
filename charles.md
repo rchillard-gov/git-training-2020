@@ -1,5 +1,5 @@
 # About Me
-IT Specailist role at SBA!
+IT role at SBA!
 
 ## What is your favorite movie?
 * Superman
