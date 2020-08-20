@@ -1,14 +1,13 @@
-# About Me
-Replace this text with your role at SBA!
-
+# About Me!
+OCIO Administrative Officer
 ## What is your favorite movie?
-* 
+Pride, Prejudice & Zombies
 
 ## What is your favorite ice cream flavor?
-* 
+Chocolate Peanut Butter
 
 ## Why are you interested in GitHub?
-Well...
+I miss sw development 
 
 ## To Do
 - [ ] list my favorite movie
