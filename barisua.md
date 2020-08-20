@@ -5,7 +5,7 @@ Replace this text with your role at SBA!
 * 12 Angry men
 
 ## What is your favorite ice cream flavor?
-*  Vanilar
+*  Vanilla
 
 ## Why are you interested in GitHub?
 Well...
