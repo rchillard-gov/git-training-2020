@@ -15,3 +15,14 @@ Training for 2020 IT Summit.  Welcome to the exercises portion of our training. 
 4. Save the file
 5. Place a Pull Request back to the main branch
 6. Go review another team’s Pull Request
+
+## Exercise 3
+1. Go look at the 'issues' tab in this repository
+2. Find an issue that interests you
+3. Comment on it, maybe you can place a Pull Request to fix it?
+
+## Exercise 4
+1. Create a new issue
+2. @ mention someone in your issue
+3. Have a discussion!
+4. Solve a problem
