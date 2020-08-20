@@ -1,15 +1,15 @@
 # About Me
-Replace this text with your role at SBA!
+IT Security Specialist
 
 ## What is your favorite movie?
-* 12 Angry men
+* The Notebook
 
 ## What is your favorite ice cream flavor?
-*  Vanilla
+* Salmon
 
 ## Why are you interested in GitHub?
-Well...
-Learn something new
+I heard its use encourages beard growth.   
+
 ## To Do
 - [ ] list my favorite movie
 - [ ] remember my favorite ice cream
