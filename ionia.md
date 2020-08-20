@@ -5,7 +5,7 @@ My role is project manager.
 * Braveheart
 
 ## What is your favorite ice cream flavor?
-* Chocolate
+* Chocolate with hot fudge. YUM
 
 ## Why are you interested in GitHub?
 to do version control
