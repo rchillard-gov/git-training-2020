@@ -1,14 +1,14 @@
 # About Me
-Replace this text with your role at SBA!
+IT Security Specialist
 
 ## What is your favorite movie?
-* 
+* The Notebook
 
 ## What is your favorite ice cream flavor?
-* 
+* Salmon
 
 ## Why are you interested in GitHub?
-Well...
+I heard its use encourages beard growth.   
 
 ## To Do
 - [ ] list my favorite movie
