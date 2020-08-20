@@ -1,16 +1,16 @@
 # About Me
-Replace this text with your role at SBA!
+My role is project manager.
 
 ## What is your favorite movie?
-* 
+* Braveheart
 
 ## What is your favorite ice cream flavor?
-* 
+* Chocolate
 
 ## Why are you interested in GitHub?
-Well...
+to do version control
 
 ## To Do
-- [ ] list my favorite movie
-- [ ] remember my favorite ice cream
-- [ ] explain why I'm interested in GitHub
+- [1] list my favorite movie
+- [2] remember my favorite ice cream
+- [3] explain why I'm interested in GitHub
